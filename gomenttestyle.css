@@ -94,6 +94,7 @@ body {
 }
 .newsflexbox{
     display: flex;
+    flex-wrap: wrap;
 }
 .newsbox{
     margin: 20px;
